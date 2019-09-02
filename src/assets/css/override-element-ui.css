@@ -1,0 +1,33 @@
+.recruit .con>div input{
+  width:779px;
+  height:100px;
+  border-radius:13px;
+  border:1Px solid rgba(191,191,191,1);
+  font-size:40px;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(44,44,44,1);
+  line-height:100px;
+  text-indent: 50px;
+  cursor: pointer;
+}
+.el-scrollbar__view,.el-autocomplete-suggestion__list{
+  width:759px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius:1Px;
+  background:rgba(255,255,255,1);
+  box-shadow:0px 0px 15px 10px rgba(231,231,231,0.5);
+  border:1Px solid rgba(226,226,226,1);
+}
+.el-scrollbar__view li,.el-autocomplete-suggestion__list li{
+  height:64px;
+  background: white;
+  font-size:32px;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(44,44,44,1);
+  line-height:64px;
+  text-indent: 40px;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.home-city-box .home-city-text-box div{
+  width: 390px;
+  /*display: flex;;*/
+  /*-webkit-display: flex;*/
+  /*-moz-display: flex;*/
+  /*-ms-display: block;*/
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
